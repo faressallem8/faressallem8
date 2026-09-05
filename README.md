@@ -1,7 +1,7 @@
 # 📊 Hey, I'm Fares 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=C7D3C0&width=700&lines=Turning+data+into+decisions%2C+one+query+at+a+time.;Data+Engineer+in+the+making;Python+%7C+Pandas+%7C+SQL+%7C;Machine+Learning+%7C+OOP;Building+models+that+learn+and+predict;From+raw+data+to+actionable+insights;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=C7D3C0&width=700&lines=Turning+data+into+decisions%2C+one+query+at+a+time.;Data+Engineer+in+the+making;Python+%7C+Pandas+%7C+SQL;Machine+Learning+%7C+OOP+%7C+Java;Building+models+that+learn+and+predict;From+raw+data+to+actionable+insights;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
