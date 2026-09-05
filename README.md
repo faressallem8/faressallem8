@@ -1,7 +1,7 @@
 # 📊 Hey, I'm Fares 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=C7D3C0&width=700&lines=Turning+data+into+decisions%2C+one+query+at+a+time.;Data+Analyst+%7C+Data+Engineer+in+the+making;Python+%7C+Pandas+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+OOP+%7C+C%2B%2B;Building+models+that+learn+and+predict;From+raw+data+to+actionable+insights;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=C7D3C0&width=700&lines=Turning+data+into+decisions%2C+one+query+at+a+time.;Data+Engineer+in+the+making;Python+%7C+Pandas+%7C+SQL+%7C;Machine+Learning+%7C+OOP+%7C+C%2B%2B;Building+models+that+learn+and+predict;From+raw+data+to+actionable+insights;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - Student at **Faculty of Computers and Data Science**, **Alexandria University**
 - Aspiring **Data Analyst** & **Data Engineer** — passionate about extracting insights from data
 - Exploring **Machine Learning** to build intelligent predictive models
-- Strong foundation in **OOP** & **C++** — writing clean, scalable, and efficient code
+- Strong foundation in **OOP** & **Java** — writing clean, scalable, and efficient code
 - Working with **RDBMS** — designing and optimizing relational databases
 - Currently learning: **Data Engineering pipelines**, **ETL**, and **Advanced SQL**
 - Based in Alexandria, Egypt
@@ -35,9 +35,9 @@
 ## 📊 Fares Ahmed's GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/faressallem8-lgtm?style=for-the-badge&logo=github&label=Followers&color=0D1117" />
-  <img src="https://img.shields.io/github/stars/faressallem8-lgtm?style=for-the-badge&logo=github&label=Stars&color=0D1117" />
-  <img src="https://img.shields.io/github/commit-activity/m/faressallem8-lgtm/faressallem8-lgtm?style=for-the-badge&logo=github&label=Commits&color=0D1117" />
+  <img src="https://img.shields.io/github/followers/faressallem8?style=for-the-badge&logo=github&label=Followers&color=0D1117" />
+  <img src="https://img.shields.io/github/stars/faressallem8?style=for-the-badge&logo=github&label=Stars&color=0D1117" />
+  <img src="https://img.shields.io/github/commit-activity/m/faressallem8/faressallem8?style=for-the-badge&logo=github&label=Commits&color=0D1117" />
 </p>
 
 ---
