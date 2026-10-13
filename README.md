@@ -33,11 +33,13 @@
 ---
 
 ## 📊 Fares Ahmed's GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/github/followers/faressallem8?style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/faressallem8?style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="Stars" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/faressallem8?style=for-the-badge&logo=github&label=Followers&color=0D1117" />
-  <img src="https://img.shields.io/github/stars/faressallem8?style=for-the-badge&logo=github&label=Stars&color=0D1117" />
-  <img src="https://img.shields.io/github/commit-activity/m/faressallem8/faressallem8?style=for-the-badge&logo=github&label=Commits&color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faressallem8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" width="52%" alt="Fares Ahmed GitHub Stats" />
 </p>
 
 ---
